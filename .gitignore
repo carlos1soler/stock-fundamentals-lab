@@ -1,0 +1,7 @@
+(
+echo compfundenv/
+echo __pycache__/
+echo *.pyc
+echo .env
+echo .pytest_cache/
+) > .gitignore
